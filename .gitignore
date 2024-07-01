@@ -1,0 +1,8 @@
+# 忽略
+out
+*.jar
+.idea/*
+
+# 不忽略
+!.idea/NeonLightTheme.iml
+!.idea/NeonLightTheme.jar
