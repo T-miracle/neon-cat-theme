@@ -1,4 +1,4 @@
-<scheme name="Nano Punk" version="142" parent_scheme="Darcula">
+<scheme name="Neon Cat" version="142" parent_scheme="Darcula">
     <metaInfo>
         <property name="description" />
         <property name="ide">idea</property>
@@ -11,34 +11,39 @@
     <colors>
         <option name="ADDED_LINES_COLOR" value="a6e22e" />
         <option name="ANNOTATIONS_COLOR" value="fffbf7" />
+        <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_END" value="191622" />
+        <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_START" value="3f3f58" />
+        <option name="BLOCK_TERMINAL_DEFAULT_BACKGROUND" value="201b2d" />
+        <option name="BLOCK_TERMINAL_SELECTED_BLOCK_STROKE_COLOR" value="6b5a94" />
         <option name="CARET_COLOR" value="fdfff1" />
-        <option name="CARET_ROW_COLOR" value="32332c" />
-        <option name="CONSOLE_BACKGROUND_KEY" value="191622" />
+        <option name="CARET_ROW_COLOR" value="272038" />
+        <option name="CONSOLE_BACKGROUND_KEY" value="201b2d" />
         <option name="DELETED_LINES_COLOR" value="f92672" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
         <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
         <option name="DOCUMENTATION_COLOR" value="3b3c35" />
-        <option name="FILESTATUS_ADDED" value="a6e22e" />
-        <option name="FILESTATUS_COPIED" value="a6e22e" />
-        <option name="FILESTATUS_DELETED" value="6e7066" />
-        <option name="FILESTATUS_HIJACKED" value="a9dc76" />
-        <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6e7066" />
-        <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="a9a9a9" />
-        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fd971f" />
-        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fd971f" />
-        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fd971f" />
+        <option name="FILESTATUS_ADDED" value="c3e887" />
+        <option name="FILESTATUS_COPIED" value="c3e88d" />
+        <option name="FILESTATUS_DELETED" value="f77669" />
+        <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="5a4b81" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fc9867" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
         <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="a6e22e" />
         <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="6c6c6c" />
-        <option name="FILESTATUS_MERGED" value="ab9df2" />
-        <option name="FILESTATUS_MODIFIED" value="efee" />
-        <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="66d9ef" />
-        <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="66d9ef" />
-        <option name="FILESTATUS_SUPPRESSED" value="6e7066" />
-        <option name="FILESTATUS_SWITCHED" value="ab9df2" />
-        <option name="FILESTATUS_UNKNOWN" value="f59762" />
-        <option name="FILESTATUS_addedOutside" value="a6e22e" />
-        <option name="FILESTATUS_changelistConflict" value="f65f87" />
-        <option name="FILESTATUS_modifiedOutside" value="66d9ef" />
+        <option name="FILESTATUS_MERGED" value="c792ea" />
+        <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+        <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+        <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+        <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+        <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+        <option name="FILESTATUS_SWITCHED" value="f77669" />
+        <option name="FILESTATUS_UNKNOWN" value="f77669" />
+        <option name="FILESTATUS_addedOutside" value="ffcb6b" />
+        <option name="FILESTATUS_changelistConflict" value="fc9867" />
+        <option name="FILESTATUS_modifiedOutside" value="c792ea" />
         <option name="GUTTER_BACKGROUND" value="272822" />
         <option name="INDENT_GUIDE" value="32332c" />
         <option name="INFORMATION_HINT" value="3b3c35" />
@@ -47,7 +52,7 @@
         <option name="LOOKUP_COLOR" value="3b3c35" />
         <option name="METHOD_SEPARATORS_COLOR" value="59575a" />
         <option name="MODIFIED_LINES_COLOR" value="fd971f" />
-        <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
+        <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="5a4b81" />
         <option name="MT_SUPPRESSED" value="eeffff" />
         <option name="NOTIFICATION_BACKGROUND" value="19181a" />
         <option name="NOT_CHANGED" value="939393" />
@@ -95,7 +100,27 @@
                 <option name="FOREGROUND" value="be881" />
             </value>
         </option>
-        <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+        <option name="BASH.EXTERNAL_COMMAND">
+            <value>
+                <option name="FOREGROUND" value="bfa5e0" />
+            </value>
+        </option>
+        <option name="BASH.VAR_DEF">
+            <value>
+                <option name="FOREGROUND" value="ffaf40" />
+            </value>
+        </option>
+        <option name="BASH.VAR_USE">
+            <value>
+                <option name="FOREGROUND" value="ffc069" />
+            </value>
+        </option>
+        <option name="BLOCK_TERMINAL_COMMAND">
+            <value>
+                <option name="FOREGROUND" value="7efff5" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
         <option name="BREADCRUMBS_DEFAULT">
             <value />
         </option>
@@ -115,11 +140,18 @@
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
+        <option name="CSS.IMPORTANT">
+            <value>
+                <option name="FOREGROUND" value="ffc069" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
         <option name="CSS.URL">
             <value>
                 <option name="FOREGROUND" value="4bcffa" />
             </value>
         </option>
+        <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
         <option name="DEFAULT_ATTRIBUTE">
             <value>
                 <option name="FOREGROUND" value="22ff91" />
@@ -205,7 +237,7 @@
         </option>
         <option name="DEFAULT_INSTANCE_FIELD">
             <value>
-                <option name="FOREGROUND" value="ffaf40" />
+                <option name="FOREGROUND" value="ffc069" />
             </value>
         </option>
         <option name="DEFAULT_INTERFACE_NAME">
@@ -225,7 +257,7 @@
         </option>
         <option name="DEFAULT_LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="ffaf40" />
+                <option name="FOREGROUND" value="ffc069" />
             </value>
         </option>
         <option name="DEFAULT_METADATA">
@@ -245,7 +277,7 @@
         </option>
         <option name="DEFAULT_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="ffaf40" />
+                <option name="FOREGROUND" value="ffc069" />
             </value>
         </option>
         <option name="DEFAULT_PARENTHS">
@@ -255,7 +287,7 @@
         </option>
         <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="ffaf40" />
+                <option name="FOREGROUND" value="ffc069" />
                 <option name="EFFECT_COLOR" value="8b67" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
@@ -396,9 +428,23 @@
                 <option name="FOREGROUND" value="ff79b6" />
             </value>
         </option>
+        <option name="JAVA_DOC_TAG">
+            <value>
+                <option name="FOREGROUND" value="5a4b81" />
+                <option name="FONT_TYPE" value="2" />
+                <option name="EFFECT_TYPE" value="1" />
+            </value>
+        </option>
         <option name="JAVA_KEYWORD">
             <value>
                 <option name="FOREGROUND" value="ff79b6" />
+            </value>
+        </option>
+        <option name="JS.DOC_TAG">
+            <value>
+                <option name="FOREGROUND" value="5a4b81" />
+                <option name="FONT_TYPE" value="3" />
+                <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
         <option name="JS.GLOBAL_FUNCTION">
@@ -443,10 +489,19 @@
                 <option name="FOREGROUND" value="ff79b6" />
             </value>
         </option>
-        <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+        <option name="LOG_INFO_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="22ff91" />
+            </value>
+        </option>
+        <option name="LOG_VERBOSE_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="4bcffa" />
+            </value>
+        </option>
         <option name="MARKDOWN_BOLD">
             <value>
-                <option name="FOREGROUND" value="f19066" />
+                <option name="FOREGROUND" value="ffc069" />
             </value>
         </option>
         <option name="MARKDOWN_CODE_FENCE">
@@ -492,7 +547,7 @@
         </option>
         <option name="MARKDOWN_ITALIC">
             <value>
-                <option name="FOREGROUND" value="f19066" />
+                <option name="FOREGROUND" value="ffc069" />
             </value>
         </option>
         <option name="MARKDOWN_LIST_ITEM">
@@ -27118,7 +27173,6 @@
                 <option name="FOREGROUND" value="bfa5e0" />
             </value>
         </option>
-        <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
         <option name="SCOPE_KEY_Open Files">
             <value />
         </option>
@@ -27144,6 +27198,11 @@
         <option name="TAB_SELECTED">
             <value />
         </option>
+        <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
+            <value>
+                <option name="BACKGROUND" value="2f362a" />
+            </value>
+        </option>
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="eeeeee" />
@@ -27156,6 +27215,12 @@
                 <option name="FOREGROUND" value="c7ecee" />
                 <option name="FONT_TYPE" value="2" />
                 <option name="ERROR_STRIPE_COLOR" value="977ab" />
+            </value>
+        </option>
+        <option name="VELOCITY_KEYWORD">
+            <value>
+                <option name="FOREGROUND" value="ffc069" />
+                <option name="FONT_TYPE" value="1" />
             </value>
         </option>
         <option name="WARNING_ATTRIBUTES">
@@ -27206,7 +27271,7 @@
         </option>
         <option name="YAML_SCALAR_VALUE">
             <value>
-                <option name="FOREGROUND" value="ff8a00" />
+                <option name="FOREGROUND" value="ffc069" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>

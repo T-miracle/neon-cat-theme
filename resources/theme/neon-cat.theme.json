@@ -1,5 +1,5 @@
 {
-  "name": "Nano Punk",
+  "name": "Neon Cat",
   "author": "Tmiracle",
   "dark": true,
   "editorScheme": "/schemes/default.xml",
@@ -560,6 +560,7 @@
       "shortcutForeground": "#8b888f"
     },
     "ToolWindow": {
+      "background": "#201b2d",
       "Button": {
         "hoverBackground": "#362c3b",
         "selectedForeground": "#ffe035",
@@ -645,6 +646,9 @@
     "Viewport": {
       "background": "#201b2d",
       "foreground": "#f7f1ff"
+    },
+    "NewClass": {
+      "Panel.background": "#201b2d"
     },
     "WelcomeScreen": {
       "background": "#201b2d",

@@ -4,5 +4,5 @@ out
 .idea/*
 
 # 不忽略
-!.idea/NeonLightTheme.iml
-!.idea/NeonLightTheme.jar
+!.idea/*.iml
+!.idea/*.jar
