@@ -1,8 +1,8 @@
 <scheme name="Neon Cat" version="142" parent_scheme="Darcula">
     <metaInfo>
         <property name="description" />
-        <property name="ide">idea</property>
-        <property name="ideVersion">2024.1.4.0.0</property>
+        <property name="ide">RustRover</property>
+        <property name="ideVersion">2024.1.3.0.0</property>
         <property name="vendorMail" />
         <property name="vendorName" />
         <property name="vendorUrl">http://</property>
@@ -22,6 +22,7 @@
         <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
         <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
         <option name="DOCUMENTATION_COLOR" value="3b3c35" />
+        <option name="DOC_COMMENT_LINK" value="d5d288" />
         <option name="FILESTATUS_ADDED" value="c3e887" />
         <option name="FILESTATUS_COPIED" value="c3e88d" />
         <option name="FILESTATUS_DELETED" value="f77669" />
@@ -100,6 +101,7 @@
                 <option name="FOREGROUND" value="be881" />
             </value>
         </option>
+        <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
         <option name="BASH.EXTERNAL_COMMAND">
             <value>
                 <option name="FOREGROUND" value="bfa5e0" />
@@ -175,6 +177,7 @@
         <option name="DEFAULT_CLASS_NAME">
             <value>
                 <option name="FOREGROUND" value="bfa5e0" />
+                <option name="FONT_TYPE" value="1" />
             </value>
         </option>
         <option name="DEFAULT_COMMA">
@@ -195,19 +198,20 @@
         </option>
         <option name="DEFAULT_DOC_COMMENT_TAG">
             <value>
-                <option name="FOREGROUND" value="ff79b6" />
-                <option name="FONT_TYPE" value="2" />
+                <option name="FOREGROUND" value="3d7a8d" />
+                <option name="FONT_TYPE" value="1" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
         <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
             <value>
                 <option name="FOREGROUND" value="776a8a" />
+                <option name="FONT_TYPE" value="1" />
             </value>
         </option>
         <option name="DEFAULT_DOC_MARKUP">
             <value>
-                <option name="FOREGROUND" value="ff79b6" />
+                <option name="FOREGROUND" value="85707a" />
             </value>
         </option>
         <option name="DEFAULT_DOT">
@@ -243,6 +247,13 @@
         <option name="DEFAULT_INTERFACE_NAME">
             <value>
                 <option name="FOREGROUND" value="7efff5" />
+            </value>
+        </option>
+        <option name="DEFAULT_INVALID_STRING_ESCAPE">
+            <value>
+                <option name="FOREGROUND" value="c98080" />
+                <option name="EFFECT_COLOR" value="ff0000" />
+                <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
         <option name="DEFAULT_KEYWORD">
@@ -306,14 +317,14 @@
         </option>
         <option name="DEFAULT_STATIC_FIELD">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
-                <option name="FONT_TYPE" value="2" />
+                <option name="FOREGROUND" value="ffc069" />
+                <option name="FONT_TYPE" value="3" />
             </value>
         </option>
         <option name="DEFAULT_STATIC_METHOD">
             <value>
                 <option name="FOREGROUND" value="22ff91" />
-                <option name="FONT_TYPE" value="2" />
+                <option name="FONT_TYPE" value="3" />
             </value>
         </option>
         <option name="DEFAULT_STRING">
@@ -329,7 +340,7 @@
         </option>
         <option name="DEFAULT_VALID_STRING_ESCAPE">
             <value>
-                <option name="FOREGROUND" value="ff00df" />
+                <option name="FOREGROUND" value="eeeeee" />
             </value>
         </option>
         <option name="DIFF_DELETED">
@@ -428,25 +439,6 @@
                 <option name="FOREGROUND" value="ff79b6" />
             </value>
         </option>
-        <option name="JAVA_DOC_TAG">
-            <value>
-                <option name="FOREGROUND" value="5a4b81" />
-                <option name="FONT_TYPE" value="2" />
-                <option name="EFFECT_TYPE" value="1" />
-            </value>
-        </option>
-        <option name="JAVA_KEYWORD">
-            <value>
-                <option name="FOREGROUND" value="ff79b6" />
-            </value>
-        </option>
-        <option name="JS.DOC_TAG">
-            <value>
-                <option name="FOREGROUND" value="5a4b81" />
-                <option name="FONT_TYPE" value="3" />
-                <option name="EFFECT_TYPE" value="1" />
-            </value>
-        </option>
         <option name="JS.GLOBAL_FUNCTION">
             <value>
                 <option name="FOREGROUND" value="22ff91" />
@@ -478,6 +470,11 @@
                 <option name="FOREGROUND" value="4bcffa" />
             </value>
         </option>
+        <option name="JSON.PROPERTY_KEY">
+            <value>
+                <option name="FOREGROUND" value="22ff91" />
+            </value>
+        </option>
         <option name="JSP_DIRECTIVE_BACKGROUND">
             <value>
                 <option name="FOREGROUND" value="ff79b6" />
@@ -497,6 +494,11 @@
         <option name="LOG_VERBOSE_OUTPUT">
             <value>
                 <option name="FOREGROUND" value="4bcffa" />
+            </value>
+        </option>
+        <option name="LOMBOK_KEY">
+            <value>
+                <option name="FOREGROUND" value="22ff91" />
             </value>
         </option>
         <option name="MARKDOWN_BOLD">
@@ -27167,10 +27169,10 @@
                 <option name="FOREGROUND" value="b1ff" />
             </value>
         </option>
-        <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
-        <option name="SASS_MIXIN">
+        <option name="SASS_COMMENT" baseAttributes="" />
+        <option name="SASS_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="bfa5e0" />
+                <option name="FOREGROUND" value="d0d0ff" />
             </value>
         </option>
         <option name="SCOPE_KEY_Open Files">
@@ -27281,6 +27283,52 @@
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
+        <option name="org.rust.ATTRIBUTE">
+            <value>
+                <option name="FOREGROUND" value="4eade5" />
+            </value>
+        </option>
+        <option name="org.rust.DOC_EMPHASIS">
+            <value>
+                <option name="FOREGROUND" value="85707a" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="org.rust.DOC_HEADING">
+            <value>
+                <option name="FOREGROUND" value="165e38" />
+                <option name="FONT_TYPE" value="1" />
+                <option name="EFFECT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="org.rust.DOC_LINK">
+            <value>
+                <option name="FOREGROUND" value="5b5a37" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="org.rust.DOC_STRONG">
+            <value>
+                <option name="FOREGROUND" value="85707a" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="org.rust.MUT_PARAMETER">
+            <value>
+                <option name="EFFECT_COLOR" value="8b67" />
+                <option name="EFFECT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="org.rust.SELF_PARAMETER">
+            <value>
+                <option name="FOREGROUND" value="ff79b6" />
+            </value>
+        </option>
+        <option name="org.rust.VARIABLE">
+            <value>
+                <option name="FOREGROUND" value="ffc069" />
+            </value>
+        </option>
         <option name="org.toml.BOOLEAN">
             <value>
                 <option name="FOREGROUND" value="bfa5e0" />
@@ -27289,7 +27337,12 @@
         </option>
         <option name="org.toml.DATE">
             <value>
-                <option name="FOREGROUND" value="bfa5e0" />
+                <option name="FOREGROUND" value="4bcffa" />
+            </value>
+        </option>
+        <option name="org.toml.KEY">
+            <value>
+                <option name="FOREGROUND" value="22ff91" />
             </value>
         </option>
         <option name="org.toml.NUMBER">

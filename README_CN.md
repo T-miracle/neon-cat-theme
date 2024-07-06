@@ -1,10 +1,8 @@
-EN | [中文](./README_CN.md)
+## 霓虹猫黑暗主题
 
 ![](./screenshot/demo.png)
 
-## Neon Cat Dark Theme
-
-Languages currently supported for highlighting optimization:
+高亮优化目前支持的语言：
 
 > HTML、XML、CSS、JavaScript、TypeScript、Vue、React、
 > Java、JSON、PostCSS、Less、Sass、Markdown、SQL、TOML、

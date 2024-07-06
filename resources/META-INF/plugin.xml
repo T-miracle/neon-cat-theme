@@ -18,13 +18,19 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-    <p>Neon Cat Dark Theme</p>
-    <p>霓虹猫暗色主题</p>
+    <h2>Neon Cat Dark Theme</h2>
     <p>Languages currently supported for highlighting optimization：</p>
+    <blockquote>
+        <p>HTML、XML、CSS、JavaScript、TypeScript、Vue、React、Java、JSON、PostCSS、Less、Sass、Markdown、SQL、TOML、YAML、Rust</p>
+    </blockquote>
+    <p><a href="https://github.com/T-miracle/neon-cat-theme/issues/new">Feedback and suggestions</a></p>
+    <br><br>
+    <h2>霓虹猫暗色主题</h2>
     <p>当前已支持高亮优化的语言：</p>
     <blockquote>
-        <p>HTML、XML、CSS、JavaScript、TypeScript、Vue、React、Java、JSON、PostCSS、Less、Sass、Markdown、SQL、TOML、YAML</p>
+        <p>HTML、XML、CSS、JavaScript、TypeScript、Vue、React、Java、JSON、PostCSS、Less、Sass、Markdown、SQL、TOML、YAML、Rust</p>
     </blockquote>
+    <p><a href="https://github.com/T-miracle/neon-cat-theme/issues/new">反馈与建议</a></p>
   ]]></description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
