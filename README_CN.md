@@ -6,4 +6,5 @@
 
 > HTML、XML、CSS、JavaScript、TypeScript、Vue、React、
 > Java、JSON、PostCSS、Less、Sass、Markdown、SQL、TOML、
-> YAML、Rust
+> YAML、Rust、
+> Python(试验性)

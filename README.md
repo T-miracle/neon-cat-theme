@@ -8,4 +8,5 @@ Languages currently supported for highlighting optimization:
 
 > HTML、XML、CSS、JavaScript、TypeScript、Vue、React、
 > Java、JSON、PostCSS、Less、Sass、Markdown、SQL、TOML、
-> YAML、Rust
+> YAML、Rust、
+> Python(Experimental)
