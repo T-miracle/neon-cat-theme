@@ -47,7 +47,7 @@
 
     <!-- Product and plugin compatibility requirements.
          Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
-    <!--<depends>com.intellij.modules.lang</depends>-->
+    <depends>com.intellij.modules.lang</depends>
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="be1a3978-5a5a-4536-9918-3851875f3499" path="/theme/neon-cat.theme.json"/>
