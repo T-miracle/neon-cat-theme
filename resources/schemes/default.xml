@@ -119,7 +119,7 @@
         </option>
         <option name="BLOCK_TERMINAL_COMMAND">
             <value>
-                <option name="FOREGROUND" value="b1fff8" />
+                <option name="FOREGROUND" value="ABE3DC" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -128,7 +128,7 @@
         </option>
         <option name="CONSOLE_NORMAL_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="b1fff8" />
+                <option name="FOREGROUND" value="ABE3DC" />
             </value>
         </option>
         <option name="CONSOLE_SYSTEM_OUTPUT">
@@ -156,7 +156,7 @@
         <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
         <option name="DEFAULT_ATTRIBUTE">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
             </value>
         </option>
         <option name="DEFAULT_BLOCK_COMMENT">
@@ -220,12 +220,12 @@
         </option>
         <option name="DEFAULT_FUNCTION_CALL">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
             </value>
         </option>
         <option name="DEFAULT_FUNCTION_DECLARATION">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
             </value>
         </option>
         <option name="DEFAULT_GLOBAL_VARIABLE">
@@ -235,7 +235,7 @@
         </option>
         <option name="DEFAULT_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="b1fff8" />
+                <option name="FOREGROUND" value="ABE3DC" />
             </value>
         </option>
         <option name="DEFAULT_INSTANCE_FIELD">
@@ -245,7 +245,7 @@
         </option>
         <option name="DEFAULT_INTERFACE_NAME">
             <value>
-                <option name="FOREGROUND" value="b1fff8" />
+                <option name="FOREGROUND" value="ABE3DC" />
             </value>
         </option>
         <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -322,13 +322,13 @@
         </option>
         <option name="DEFAULT_STATIC_METHOD">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
                 <option name="FONT_TYPE" value="3" />
             </value>
         </option>
         <option name="DEFAULT_STRING">
             <value>
-                <option name="FOREGROUND" value="fffa65" />
+                <option name="FOREGROUND" value="e8e364"/>
             </value>
         </option>
         <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
@@ -339,7 +339,7 @@
         </option>
         <option name="DEFAULT_VALID_STRING_ESCAPE">
             <value>
-                <option name="FOREGROUND" value="eeeeee" />
+                <option name="FOREGROUND" value="cccccc" />
             </value>
         </option>
         <option name="DIFF_DELETED">
@@ -379,13 +379,13 @@
         </option>
         <option name="HTML_ATTRIBUTE_NAME">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
             </value>
         </option>
         <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
         <option name="HTML_CODE">
             <value>
-                <option name="FOREGROUND" value="eeeeee" />
+                <option name="FOREGROUND" value="cccccc" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
@@ -433,7 +433,7 @@
         </option>
         <option name="IGNORE.VALUE">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
             </value>
         </option>
         <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -446,7 +446,7 @@
         </option>
         <option name="JS.GLOBAL_FUNCTION">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
             </value>
         </option>
         <option name="JS.GLOBAL_VARIABLE">
@@ -457,12 +457,12 @@
         </option>
         <option name="JS.INSTANCE_MEMBER_FUNCTION">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
             </value>
         </option>
         <option name="JS.LOCAL_FUNCTION">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
             </value>
         </option>
         <option name="JS.LOCAL_VARIABLE">
@@ -477,7 +477,7 @@
         </option>
         <option name="JSON.PROPERTY_KEY">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
             </value>
         </option>
         <option name="JSP_DIRECTIVE_BACKGROUND">
@@ -493,7 +493,7 @@
         </option>
         <option name="LOG_INFO_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
             </value>
         </option>
         <option name="LOG_VERBOSE_OUTPUT">
@@ -503,7 +503,7 @@
         </option>
         <option name="LOMBOK_KEY">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
             </value>
         </option>
         <option name="MARKDOWN_BOLD">
@@ -518,32 +518,32 @@
         </option>
         <option name="MARKDOWN_HEADER_LEVEL_1">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
             </value>
         </option>
         <option name="MARKDOWN_HEADER_LEVEL_2">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
             </value>
         </option>
         <option name="MARKDOWN_HEADER_LEVEL_3">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
             </value>
         </option>
         <option name="MARKDOWN_HEADER_LEVEL_4">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
             </value>
         </option>
         <option name="MARKDOWN_HEADER_LEVEL_5">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
             </value>
         </option>
         <option name="MARKDOWN_HEADER_LEVEL_6">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
             </value>
         </option>
         <option name="MARKDOWN_INLINE_HTML">
@@ -27159,7 +27159,7 @@
         </option>
         <option name="MARKDOWN_TEXT">
             <value>
-                <option name="FOREGROUND" value="b1fff8" />
+                <option name="FOREGROUND" value="ABE3DC" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
@@ -27198,13 +27198,13 @@
         </option>
         <option name="PY.PREDEFINED_DEFINITION">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="PY.PREDEFINED_USAGE">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -27232,12 +27232,12 @@
         </option>
         <option name="SQL_TABLE">
             <value>
-                <option name="FOREGROUND" value="b1fff8" />
+                <option name="FOREGROUND" value="ABE3DC" />
             </value>
         </option>
         <option name="STATIC_METHOD_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -27251,7 +27251,7 @@
         </option>
         <option name="TEXT">
             <value>
-                <option name="FOREGROUND" value="eeeeee" />
+                <option name="FOREGROUND" value="cccccc" />
                 <option name="BACKGROUND" value="191622" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
@@ -27297,7 +27297,7 @@
         </option>
         <option name="XML_TAG_DATA">
             <value>
-                <option name="FOREGROUND" value="b1fff8" />
+                <option name="FOREGROUND" value="ABE3DC" />
             </value>
         </option>
         <option name="XML_TAG_NAME">
@@ -27386,7 +27386,7 @@
         </option>
         <option name="org.toml.KEY">
             <value>
-                <option name="FOREGROUND" value="22ff91" />
+                <option name="FOREGROUND" value="00E170" />
             </value>
         </option>
         <option name="org.toml.NUMBER">
